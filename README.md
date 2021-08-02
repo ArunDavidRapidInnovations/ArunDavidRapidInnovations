@@ -7,9 +7,13 @@ I love to build new things...
 
 - nodejs
 - reactjs
+- Electronics
+- Design
 
 ## Hobbies
 
 - Gaming
 - Speed Cubing
 - Electronics Prototyping
+
+# Some Bad code
