@@ -16,4 +16,3 @@ I love to build new things...
 - Speed Cubing
 - Electronics Prototyping
 
-# Some Bad code
